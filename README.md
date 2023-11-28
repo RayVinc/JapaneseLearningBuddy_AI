@@ -1,2 +1,2 @@
 # JapaneseLearningBuddy_AI
-A tool that helps you learn japanese by giving you the opportunity to chat with a japanese based LLM (BertJapanese - https://huggingface.co/docs/transformers/model_doc/bert-japanese). 
+A tool that helps you learn japanese by giving you the opportunity to chat with a japanese based LLM (BertJapanese - https://huggingface.co/docs/transformers/model_doc/bert-japanese) and a user interface that allows you to type japanese with a our typical roman characters, which will then be transformed into japanese characters. For example, typing "nihon" would convert to "にほん". This method is called the **Romanji Input** and is commonly used by japanese natives amongst other input methods.
